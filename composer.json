@@ -2,6 +2,7 @@
     "name": "dottwatson/csv",
     "description": "",
     "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Mirko Temperini",
