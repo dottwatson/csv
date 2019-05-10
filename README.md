@@ -5,9 +5,4 @@ A good CSV handler must be efficient, clare , and easy to use.
 This package make easy to manage csv files with a fluent code, and gives you the ability to filter rows with syntax like ORM. 
 
 
-## Install
-via Composer
- `composer require https://github.com/dottwatson/csv.git`
-
-
 Documentation is coming soon...
